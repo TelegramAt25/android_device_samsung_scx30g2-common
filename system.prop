@@ -63,3 +63,6 @@ fw.show_multiuserui=1
 
 # EGL blobs crash on screen off
 ro.egl.destroy_after_detach=true
+
+# Logging
+ro.logd.kernel=false
