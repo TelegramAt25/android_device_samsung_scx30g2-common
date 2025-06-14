@@ -66,3 +66,7 @@ ro.egl.destroy_after_detach=true
 
 # Logging
 ro.logd.kernel=false
+persist.log.tag.chatty=E
+persist.log.tag.gralloc.sc8830=S
+persist.log.tag.phoneserver=E
+persist.log.tag.ENGPC=E
